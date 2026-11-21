@@ -1,0 +1,23 @@
+{
+  "name": "ana-lucia-estetica-corporal",
+  "version": "1.0.0",
+  "description": "Bio Link profissional - Ana Lúcia Estética Corporal - Estética avançada, depilação a laser, pós-operatório, drenagem e PEIM - Barra do Garças – MT",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'Projeto estático - sirva com qualquer servidor estático'",
+    "build": "echo 'Nenhum build necessário - projeto HTML estático'",
+    "start": "echo 'Use vercel serve ou qualquer servidor estático'"
+  },
+  "keywords": [
+    "bio-link",
+    "estetica-corporal",
+    "ana-lucia",
+    "depilacao-laser",
+    "pos-operatorio",
+    "drenagem",
+    "peim",
+    "barra-do-garcas-mt"
+  ],
+  "author": "Ana Lúcia Estética Corporal",
+  "license": "MIT"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Ana Lúcia - Estética Corporal",
+  "short_name": "Ana Lúcia Estética Corporal",
+  "description": "Estética avançada, cuidado e atenção em cada detalhe. Depilação a laser, pós-operatório, drenagem e PEIM. Barra do Garças – MT.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F4ED",
+  "theme_color": "#332820",
+  "icons": [
+    {
+      "src": "/images/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "pt-BR",
+  "dir": "ltr"
+}
